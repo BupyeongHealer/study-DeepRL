@@ -1,4 +1,6 @@
 ## study-DeepRL
+- Language : Python, Pytorch
+- Env : Conda, Jupyter-Lab
 
 ### requirements
 ```cmd
