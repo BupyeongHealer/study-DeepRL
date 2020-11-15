@@ -1,4 +1,4 @@
-# study-DeepRL-Book
+## study-DeepRL
 
 ### requirements
 ```cmd
